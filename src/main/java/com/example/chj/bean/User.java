@@ -3,7 +3,7 @@ package com.example.chj.bean;
 public class User {
 
 	
-	public int s;
+	public int master;
 	
 	public int b;
 	public int bb1;
