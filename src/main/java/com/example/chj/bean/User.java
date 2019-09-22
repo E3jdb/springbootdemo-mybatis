@@ -2,7 +2,7 @@ package com.example.chj.bean;
 
 public class User {
 
-	public int ss;
+	public int s;
 	
 	private int aa;
 	
