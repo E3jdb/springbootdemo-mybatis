@@ -3,6 +3,8 @@ package com.example.chj.bean;
 public class User {
 
 	
+	private int aa;
+	
 	private Integer Id;
 	private String Name;
 	private Integer Age;
