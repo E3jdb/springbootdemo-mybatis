@@ -26,6 +26,9 @@ public class User {
 	}
 	
 	
-	
+	@Override
+	public String toString() {
+		return "User [Id=" + Id + ", Name=" + Name + ", Age=" + Age + "]";
+	}
 	
 }
